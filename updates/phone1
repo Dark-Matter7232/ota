@@ -9,7 +9,8 @@
       "size": "1389379622",
       "romtype": "Beta",
       "number": "3",
-      "version": "Sapphire"
+      "version": "Sapphire",
+      "android_version": 12
     }
   ]
 }
