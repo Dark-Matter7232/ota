@@ -1,23 +1,23 @@
 {
   "updates":[
     {
-      "date": "2023-08-14",
-      "datetime": "1691968479",
-      "filename": "aospa-topaz-beta-1-porsche-20230813.zip",
-      "url": "https://builds.paranoidandroid.co/aospa-topaz-beta-1-porsche-20230813.zip",
-      "recovery_sha256": "e469243ae6d7545f55211287c6b80939b10225c7f764be7ea831a3af25020224",
-      "fastboot": "",
-      "fastboot_sha256": "",
+      "date": "2023-09-20",
+      "datetime": "1695214345",
+      "filename": "aospa-topaz-1-porsche-20230920.zip",
+      "url": "https://aospa.darflix.workers.dev/download.aspx?file=33xE16BmxmjOMQFkNg%2Fe6wC4WQlb3oHmV%2BnclzrXQglZeCdb%2FPoDMmWJi2h2BbQY&expiry=DS4XOYSRJMsOjf7Zruf4%2BQ%3D%3D&mac=cd54d43608818e1342b0b9a2604bd53c621ccff85209a7a4afb42ba0715aebe6",
+      "recovery_sha256": "99cf31761f1db42e1b5d3f44ea672b0b7d389209d0167f11367e39b85b195b05",
+      "fastboot": "https://aospa.darflix.workers.dev/download.aspx?file=sA126sgZFPqg9ZkUmuls5A0fC71xp4h9pDKDRsSw%2FAVRmtOZ6ad1uDWZTUzKrf%2FM&expiry=DS4XOYSRJMsOjf7Zruf4%2BQ%3D%3D&mac=f98fa523a6e1a0238dbe99c33b1b05edc65bf7a21ab6826e09cf2e2a5d4a2ad1",
+      "fastboot_sha256": "63ba2533a6e0103d55595d8d5db22af6db2cea9b20f6270ac770f4108b0fc01a",
       "mirror": "",
       "telegram": "",
       "id": "topaz-beta-1",
-      "size": "2241531043",
+      "size": "2318530276",
       "build_type": "Beta",
       "version_code": "1",
       "version": "Topaz",
       "android_version": "13",
-      "android_spl": "2023-08-05",
-      "changelog_device": "Initial Release"
-     }
+      "android_spl": "2023-09-05",
+      "changelog_device": "Save space by moving to erofs, Use stock audio configs, Fix mic gain issue"
+    }
    ]
 }
